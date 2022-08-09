@@ -86,12 +86,23 @@
   z-index: -2;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 425px) {
   .main {
     margin-top: 30px;
     justify-content: center;
   }
   .flex .btn {
     margin-bottom: 20px;
+  }
+
+  .imagens-2 .carinha {
+    max-height: 380px;
+  }
+  .retangulo {
+    width: 308px;
+    height: 380px;
+  }
+  .ondas {
+    width: 280px;
   }
 }
