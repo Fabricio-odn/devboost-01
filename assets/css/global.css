@@ -16,8 +16,8 @@ body {
 }
 
 .container {
-  box-sizing: border-box;
-  max-width: 1221px;
   margin: 0 auto;
   padding: 0 20px;
+  max-width: 1221px;
+  box-sizing: border-box;
 }
