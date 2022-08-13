@@ -23,6 +23,7 @@
   .header {
     flex-wrap: wrap;
     flex-direction: column;
+    padding-top: 15px;
   }
   .header-menu {
     gap: 20px;
